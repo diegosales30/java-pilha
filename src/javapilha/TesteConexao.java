@@ -9,6 +9,7 @@ public class TesteConexao {
         System.out.println("Deu erro naconexão.");
       }
 
+      //refatorando
       //----------------------------//
       // Conexao con = null;
       // try {
